@@ -1,0 +1,33 @@
+x2 + 5y = 0 OK
+x2 + y = 0 OK
+x + y2 = 0 OK 
+x2 + y + 4 = 2 OK
+3x + y2 = 0 OK
+3x + y = 0 OK
+x2 + y2 = 5 OK
+5 + y2 + 2x = 1 OK
+5 + y2 + 3x + x = 1 OK
+2x - y2 = -1 OK
+
+
+x2 + 3 = 2y -> x2 - 2y = -3
+3 = x2 + 2y OK
+3 + 2 = x2 + 2y OK
+3 + 2 = x2 + 2y + 7 OK
+
+
+3 + 2 = 5x2 + 2y OK
+
+---------------------------------------
+
+x2 - 2.5y = -3 OK
+3x + y*2 = 8 OK
+3x + 8 = y*2 + 3 OK
+
+3xx + y2 = 0 OK (Error)
+12x - 2*yy = 1 OK (Error)
+
+12x - y*2 = 1x OK
+12x - y*2 = 0x OK
+20x - y*2y = 12 OK (Error)
+20x - y*y2 = 12 OK (Error)

@@ -1,0 +1,4 @@
+get exp
+eval exp -5 5
+plot exp
+exit
